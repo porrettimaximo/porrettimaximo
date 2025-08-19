@@ -45,28 +45,18 @@
  <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
  
 
-  
-  
-
-<h3 align="center" >Connect with me 🤝 </h3>
-
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+        <a   target="_blank" href="www.linkedin.com/in/maximoporretti">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/porrettimaximo">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
+           <a style="margin-left: 10px;" target="_blank" href="porrettimaximo@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
 </p>
 
 
-<p>Total visitors till now 👇❤️</p>
 <img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
-
--------
-Credits: [nitindahiya199](https://github.com/nitindahiya199)
-Last Edited on: 01-05-2024
