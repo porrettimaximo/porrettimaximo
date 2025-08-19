@@ -48,11 +48,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="www.linkedin.com/in/maximoporretti">
+        <a   target="_blank" href="https://www.linkedin.com/in/maximo-porretti-b391b2265/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/porrettimaximo">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="porrettimaximo@gmail.com">
+           <a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=maximoporretti2016@gmail.com&tf=cm">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
