@@ -59,5 +59,3 @@
 </p>
 
 
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
-
