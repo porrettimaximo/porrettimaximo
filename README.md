@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 📋:
-    https://camo.githubusercontent.com/62b191ac28159469f3361f7ebbcdcc6c6214a3b34165d863f683214dccf9c3b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d2532333030354330462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465
+      ![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://camo.githubusercontent.com/62b191ac28159469f3361f7ebbcdcc6c6214a3b34165d863f683214dccf9c3b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d2532333030354330462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5468796d656c656166266c6f676f436f6c6f723d7768697465))
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
